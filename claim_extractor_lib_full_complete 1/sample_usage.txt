@@ -1,0 +1,11 @@
+
+Sample Usage:
+
+1. Zero-shot classification:
+   python zsc.py --input_file sample_input.xlsx
+
+2. Fine-tuning a model:
+   python fine_tune.py --dataset_path dataset.csv --epochs 5 --lr 2e-5
+
+3. Generating CSV and JSON output:
+   python csv_maker.py --trained_model_path fine_tuned_model/ --input_file preprocessed_input.xlsx
