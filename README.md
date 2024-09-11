@@ -1,6 +1,6 @@
 # Advanced Claim Identification Library
 
-Guneesh Vats | IIIT Hyderabad | guneesh.vats@research.iiit.ac.in | Github Repo Link
+Guneesh Vats | IIIT Hyderabad | guneesh.vats@research.iiit.ac.in | [Github Repo Link](https://github.com/guneeshvats/Advanced-Claim-Identification-Library)
 
 
 
