@@ -92,6 +92,7 @@ Welcome to the Text Analysis Library, a comprehensive solution for advanced text
 │   ├── ZSC_BART_Cosine_bert-base-nli.py
 │   ├── ZSC_LLAMA2_bert_base_nli.py
 │   ├── Training_BART_bert-base-nli.py
-│   └── FT1_csv_maker_BART_bert_base_nli.py```
+│   └── FT1_csv_maker_BART_bert_base_nli.py
+```
 
 
